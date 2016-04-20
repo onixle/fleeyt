@@ -15,7 +15,7 @@
     "modelsNeedle": "// Insert models below",
     "filters": {
       "js": true,
-      "babel": true,
+      "ts": true,
       "html": true,
       "less": true,
       "uirouter": true,
@@ -53,7 +53,7 @@
       "es6"
     ],
     "extensions": [
-      "babel",
+      "ts",
       "js",
       "html",
       "less"
